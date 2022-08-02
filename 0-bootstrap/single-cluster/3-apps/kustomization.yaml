@@ -1,6 +1,6 @@
 resources:
-- argocd/sample-java-app/cicd.yaml
-- argocd/sample-java-app/dev.yaml
+#- argocd/sample-java-app/cicd.yaml
+#- argocd/sample-java-app/dev.yaml
 #- argocd/ace/stage.yaml
 #- argocd/ace/prod.yaml
 
